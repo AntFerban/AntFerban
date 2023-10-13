@@ -2,7 +2,7 @@
 
 - 🤖 Estou me especializando na área de Ciência de Dados.
 - 📈 Tenho realizado projetos de análise, vizualização e interpretação de dados.
-- 💻 Estou estudando Python para Ciência de Dados.
+- 💻 Estou estudando python.
 - 🎓 Sou bacharel e mestre em Engenharia Mecânica.
 
 
