@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou o AntFerban! 👋
 
-<!--
-**AntFerban/AntFerban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 Estou me especializando na área de Ciência de Dados.
+- 📈 Tenho realizado projetos de análise, vizualização e interpretação de dados.
+- 💻 Estou estudando Python para Ciência de Dados.
+- 🎓 Sou bacharel e mestre em Engenharia Mecânica.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <a href='https://www.linkedin.com/in/antonio-fernandes-bandeira-neto-127481136/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+  <a href='https://www.researchgate.net/profile/Antonio-Fernandes-Bandeira-Neto'><img src='https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white'></a>
+   <a href=mailto:afbn.afbn@gmail.com''><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+</div>
+  
